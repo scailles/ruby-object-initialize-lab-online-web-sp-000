@@ -2,8 +2,8 @@ class Dog
   
   
   initialize(dog_breed="Mutt",dog_name="Fido")
-    @breed= breed
-    @name= name
+    @breed= dog_breed
+    @name= dog_name
   end
   
   
